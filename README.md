@@ -1,5 +1,5 @@
 # Introduction
-A Chatbot Application developed using Reactjs and machine learning.
+A Chatbot Application developed using Reactjs and Chat GPT API.
 
 ## Functions Implemented
 1. The user can send queries to the bot and it will answer accordingly.
