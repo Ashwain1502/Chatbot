@@ -1,0 +1,115 @@
+{
+  "cropInfo": {
+    "title": "Crop Information",
+    "options": [
+      { "label": "Wheat", "next": "wheatInfo" },
+      { "label": "Rice", "next": "riceInfo" },
+      { "label": "Maize", "next": "maizeInfo" }
+    ]
+  },
+  "weatherUpdates": {
+    "title": "Weather Updates",
+    "options": [
+      { "label": "Today's Weather", "next": "todaysWeather" },
+      { "label": "Weekly Forecast", "next": "weeklyForecast" }
+    ]
+  },
+  "marketInfo": {
+    "title": "Market Information",
+    "options": [
+      { "label": "Current Prices", "next": "currentPrices" },
+      { "label": "Market Trends", "next": "marketTrends" }
+    ]
+  },
+  "soilHealth": {
+    "title": "Soil Health Analysis",
+    "options": [
+      { "label": "Soil Testing", "next": "soilTesting" },
+      { "label": "Fertilizer Recommendations", "next": "fertilizerRecs" }
+    ]
+  },
+  "farmEquip": {
+    "title": "Farm Equipment Info",
+    "options": [
+      { "label": "Tractors", "next": "tractors" },
+      { "label": "Harvesters", "next": "harvesters" }
+    ]
+  },
+  "wheatInfo": {
+    "title": "Wheat Information",
+    "options": [
+      { "label": "Planting", "next": "wheatPlanting" },
+      { "label": "Harvesting", "next": "wheatHarvesting" }
+    ]
+  },
+  "riceInfo": {
+    "title": "Rice Information",
+    "options": [
+      { "label": "Planting", "next": "ricePlanting" },
+      { "label": "Harvesting", "next": "riceHarvesting" }
+    ]
+  },
+  "maizeInfo": {
+    "title": "Maize Information",
+    "options": [
+      { "label": "Planting", "next": "maizePlanting" },
+      { "label": "Harvesting", "next": "maizeHarvesting" }
+    ]
+  },
+  "wheatPlanting": {
+    "title": "Wheat Planting",
+    "options": []
+  },
+  "wheatHarvesting": {
+    "title": "Wheat Harvesting",
+    "options": []
+  },
+  "ricePlanting": {
+    "title": "Rice Planting",
+    "options": []
+  },
+  "riceHarvesting": {
+    "title": "Rice Harvesting",
+    "options": []
+  },
+  "maizePlanting": {
+    "title": "Maize Planting",
+    "options": []
+  },
+  "maizeHarvesting": {
+    "title": "Maize Harvesting",
+    "options": []
+  },
+  "todaysWeather": {
+    "title": "Today's Weather",
+    "options": []
+  },
+  "weeklyForecast": {
+    "title": "Weekly Forecast",
+    "options": []
+  },
+  "currentPrices": {
+    "title": "Current Prices",
+    "options": []
+  },
+  "marketTrends": {
+    "title": "Market Trends",
+    "options": []
+  },
+  "soilTesting": {
+    "title": "Soil Testing",
+    "options": []
+  },
+  "fertilizerRecs": {
+    "title": "Fertilizer Recommendations",
+    "options": []
+  },
+  "tractors": {
+    "title": "Tractors",
+    "options": []
+  },
+  "harvesters": {
+    "title": "Harvesters",
+    "options": []
+  }
+}
