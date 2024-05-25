@@ -25,7 +25,7 @@ A Farmer Chatbot Application developed using Reactjs, Tailwind CSS, and Chat GPT
 5. Run the command to get it running:  npm run dev.
 
 ## Working Link
-( Click Here )[https://farmer-chatbot.netlify.app/]
+[Click Here](https://farmer-chatbot.netlify.app/)
 
 ## Contributors
 Ashwani Kumar ( ashwink1502@gmail.com )
