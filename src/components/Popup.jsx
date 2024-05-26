@@ -5,7 +5,7 @@ const Popup = ({ isOpen, onClose, content, onOptionClick, onGoBack, canGoBack })
 
   return (
     <div className="fixed inset-0 flex justify-center items-center bg-black bg-opacity-50">
-      <div className="bg-gray-800 text-white p-5 rounded-lg w-[70%] h-[70%] relative">
+      <div className="bg-[#151718] text-white p-5 rounded-lg w-[70%] h-[70%] relative">
         <button
           onClick={onClose}
           className="absolute top-3 right-3 text-xl font-bold"
@@ -27,7 +27,7 @@ const Popup = ({ isOpen, onClose, content, onOptionClick, onGoBack, canGoBack })
               <button
                 key={index}
                 onClick={() => onOptionClick(option)}
-                className="block w-full text-left p-3 mb-2 bg-gray-700 rounded hover:bg-gray-600"
+                className="block w-full text-left p-3 mb-2 bg-[#1E1E1E] rounded hover:bg-[#494949]"
               >
                 {option.label}
               </button>

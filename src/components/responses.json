@@ -14,7 +14,82 @@
       { "label": "Weekly Forecast", "next": "weeklyForecast" }
     ]
   },
-  "marketInfo": {
+  "marketInfo":{
+    "title":"Market Information for which crop",
+    "options": [
+      {"label" :"Wheat Market information" , "next": "infowheat"},
+      {"label" :"Rice Market information" , "next": "inforice"},
+      {"label" :"Maize Market information" , "next": "infomaize"}
+    ]
+  },
+  
+  "infowheat":{
+    "title":"Wheat Market Information",
+    "options":[
+      {"label" : "Current Prices" , "next" : "currentPriceswheat"},
+      {"label" : "Market Trends" , "next" : "marketTrendswheat"}
+    ]
+  },
+
+  "currentPriceswheat":{
+    "title":"Current Market Prices for wheat",
+    "options":[
+      {"label" : "Rs. 2335.13 per quintal" }
+    ]
+  },
+
+  "marketTrendswheat":{
+    "title":"Market Trends for wheat",
+    "options":[
+      {"label" : "The northern states of Uttar Pradesh, Punjab, and Haryana are the main wheat producers of India. About 107 million metric tons of wheat were produced in 2021 across the country. In 2022, about 31 million hectares of wheat were cultivated and over 31 million hectares of wheat were harvested in the country." }
+    ]
+  },
+
+  "inforice":{
+    "title":"Rice Market Information",
+    "options":[
+      {"label" : "Current Prices" , "next" : "currentPricesrice"},
+      {"label" : "Market Trends" , "next" : "marketTrendsrice"}
+    ]
+  },
+
+  "currentPricesrice":{
+    "title":"Current Market Prices for rice",
+    "options":[
+      {"label" : " Rs. 2916.69 per Quintal." }
+    ]
+  },
+
+  "marketTrendsrice":{
+    "title":"Market Trends for rice",
+    "options":[
+      {"label" : "The India Rice Market size is estimated at USD 52.82 billion in 2024, and is expected to reach USD 59.46 billion by 2029, growing at a CAGR of 2.40% during the forecast period (2024-2029)." }
+    ]
+  },
+
+  "infomaize":{
+    "title":"Maize Market Information",
+    "options":[
+      {"label" : "Current Prices" , "next" : "currentPricesmaize"},
+      {"label" : "Market Trends" , "next" : "marketTrendsmaize"}
+    ]
+  },
+
+  "currentPricesmaize":{
+    "title":"Current Market Prices for Maize",
+    "options":[
+      {"label" : " Rs. 2176.34 per Quintal." }
+    ]
+  },
+
+  "marketTrendsmaize":{
+    "title":"Market Trends for Maize",
+    "options":[
+      {"label" : "The Maize Market size is estimated at USD 143.62 billion in 2024, and is expected to reach USD 166.57 billion by 2029, growing at a CAGR of 3.01% during the forecast period (2024-2029). " }
+    ]
+  },
+
+  "marketInfogo": {
     "title": "Market Information",
     "options": [
       { "label": "Current Prices", "next": "currentPrices" },
@@ -58,27 +133,41 @@
   },
   "wheatPlanting": {
     "title": "Wheat Planting",
-    "options": []
+    "options": [
+      { "label": "Best sowing time: November to December. Ideal temperature: 20-25°C. Soil type: Loamy soil with good drainage."}
+    ]
   },
   "wheatHarvesting": {
     "title": "Wheat Harvesting",
-    "options": []
+    "options": [
+      { "label": "Harvesting time: March to April."}
+    ]
   },
   "ricePlanting": {
     "title": "Rice Planting",
-    "options": []
+    "options": [
+      {
+        "label" : "Best sowing time: June to July. Ideal temperature: 24-30°C. Soil type: Clayey soil with good water retention."
+      }
+    ]
   },
   "riceHarvesting": {
     "title": "Rice Harvesting",
-    "options": []
+    "options": [
+      { "label": "Harvesting time: November to December."}
+    ]
   },
   "maizePlanting": {
     "title": "Maize Planting",
-    "options": []
+    "options": [
+      { "label": "Maize is usually planted in rows that are 60–75 cm apart, with plants spaced 20–25 cm apart within the row"}
+    ]
   },
   "maizeHarvesting": {
     "title": "Maize Harvesting",
-    "options": []
+    "options": [
+      { "label": "Harvesting time: In general, maize requires 120 days (12 weeks) to reach maturity"}
+    ]
   },
   "todaysWeather": {
     "title": "Today's Weather",
