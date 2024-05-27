@@ -15,6 +15,7 @@ A **Farmer Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper 
 
 ## Working On
 1. Making the responses more accurate and reliable.
+2. Multi-Language support for different users.
 
 ## How to run it
 1. Download the zip files or clone the repository with git clone
