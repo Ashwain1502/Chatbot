@@ -1,5 +1,5 @@
 # Introduction
-A **Farmer Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, and Chat GPT API.
+A **Farmer Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, and Open AI API.
 
 ## Functions Implemented
 1. The user can send queries to the bot and it will answer accordingly.
