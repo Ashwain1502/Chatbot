@@ -1,5 +1,5 @@
 # Introduction
-A **Farmer Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, and Open AI API.
+A ** Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, and Open AI API.
 
 ## Functions Implemented
 1. The user can send queries to the bot and it will answer accordingly.
@@ -10,12 +10,12 @@ A **Farmer Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper 
 ## Design
 1. It contains three pages: a home page, a bot page, and an exit page.
 2. Minimalist design to keep all the functionality without much sensory overload.
-3. The home page takes the user to the bot and the bot page to the exit page, from the exit page user can go to the home and bot pages.
+3. The home page takes the user to the bot and the bot page to the exit page, from the exit page, the user can go to the home and bot pages.
 4. Figma designs were made first with the help of a mood board and brainstorming.
 
 ## Working On
 1. Making the responses more accurate and reliable.
-2. Multi-Language support for different users.
+2. Multi-language support for different users.
 
 ## How to run it
 1. Download the zip files or clone the repository with git clone
