@@ -13,10 +13,6 @@ A **Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, an
 3. The home page takes the user to the bot and the bot page to the exit page, from the exit page, the user can go to the home and bot pages.
 4. Figma designs were made first with the help of a mood board and brainstorming.
 
-## Working On
-1. Making the responses more accurate and reliable.
-2. Multi-language support for different users.
-
 ## How to run it
 1. Download the zip files or clone the repository with git clone
 2. Move to the folder with the command: cd Chatbot
