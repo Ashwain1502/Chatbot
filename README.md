@@ -14,14 +14,14 @@ A **Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, an
 4. Figma designs were made first with the help of a mood board and brainstorming.
 
 ## How to run it
-1. Download the zip files or clone the repository with git clone
-2. Move to the folder with the command: cd Chatbot
-3. Run the command to install node modules with the command: npm install
-4. Also install all the libraries from requirements.txt
+1. Download the zip files or clone the repository with git clone.
+2. Move to the folder with the command: cd Chatbot.
+3. Run the command to install node modules with the command: npm install.
+4. Also install all the libraries from requirements.txt.
 5. Run the command to get it running:  npm run dev.
 
 ## Working Link
 [Click Here](https://farmer-chatbot.netlify.app/)
 
-> ## Contributors
+> ### Contributors
 > Ashwani Kumar (ashwink1502@gmail.com).
