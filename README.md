@@ -1,11 +1,11 @@
 # Introduction
-A **Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, and Open AI API to fetch answers for the queries asked.
+A **Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, and Open AI API to get answers for the queries asked.
 
 ## Functions Implemented
 1. The user can send queries to the bot and it will answer accordingly.
 2. There are predefined queries to help the user along the way.
 3. Two-way conversation with asking directly and quick responses.
-4. Users can ask queries with speech also. A speech-to-text functionality is also there.
+4. Users can ask queries with speech. A speech-to-text functionality is also implemented.
 
 ## Design
 1. It contains three pages: a home page, a bot page, and an exit page.
