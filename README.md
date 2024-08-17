@@ -24,4 +24,4 @@ A **Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, an
 [Chatbot](https://farmer-chatbot.netlify.app/).
 
 > ### Contributors
-> Ashwani Kumar (ashwink1502@gmail.com)
+> Ashwani Kumar (ashwink1502@gmail.com).
