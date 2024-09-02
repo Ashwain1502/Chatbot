@@ -21,7 +21,7 @@ A **Chatbot Application** developed using Reactjs, Tailwind CSS, Wishper API, an
 5. Run the command to get it running:  npm run dev.
 
 ## Working Link
-[Chatbot](https://farmer-chatbot.netlify.app/)
+[Chatbot](https://farmer-chatbot.netlify.app/).
 
 > ### Contributors
 > Ashwani Kumar (ashwink1502@gmail.com).
