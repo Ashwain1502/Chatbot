@@ -11,7 +11,7 @@ const Messages = () => {
                     alt="profile" 
                     className="rounded-full w-10 h-10"
                 />
-                <p className="font-semibold text-2xl ml-6">Farmer Name</p>
+                <p className="font-semibold text-2xl ml-6">Ram Meher Singh</p>
             </div>
             <hr className="border-[#808080]"/>
 

@@ -1,4 +1,4 @@
-import React from 'react';
+import PropTypes from 'prop-types';
 
 const Popup = ({ isOpen, onClose, content, onOptionClick, onGoBack, canGoBack }) => {
   if (!isOpen) return null;
@@ -39,6 +39,32 @@ const Popup = ({ isOpen, onClose, content, onOptionClick, onGoBack, canGoBack })
       </div>
     </div>
   );
+};
+
+Popup.defaultProps = {
+  isOpen: false,
+  onClose: () => {},
+  content: { title: '', options: [] },
+  onOptionClick: () => {},
+  onGoBack: () => {},
+  canGoBack: false,
+};
+
+Popup.propTypes = {
+  isOpen: PropTypes.bool,
+  onClose: PropTypes.func,
+  content: PropTypes.shape({
+    title: PropTypes.string,
+    options: PropTypes.arrayOf(
+      PropTypes.shape({
+        label: PropTypes.string,
+        next: PropTypes.string,
+      })
+    ),
+  }),
+  onOptionClick: PropTypes.func,
+  onGoBack: PropTypes.func,
+  canGoBack: PropTypes.bool,
 };
 
 export default Popup;
